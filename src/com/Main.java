@@ -14,7 +14,7 @@ public class Main {
     }
 
     public void stop() {
-        System.out.println("Stop!");
+        System.out.println("Buy lexa");
 
     }
 }
