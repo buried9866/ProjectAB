@@ -17,4 +17,8 @@ public class Main {
         System.out.println("Buy lexa");
 
     }
+
+public void fact () {
+        System.out.println("Little mrrrr");
+}
 }
