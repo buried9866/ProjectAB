@@ -7,4 +7,9 @@ public class Main {
         System.out.println("H!");
 
     }
+
+    public void start() {
+        System.out.println("Start!");
+
+    }
 }
