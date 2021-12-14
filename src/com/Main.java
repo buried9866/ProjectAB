@@ -12,4 +12,9 @@ public class Main {
         System.out.println("Start!");
 
     }
+
+    public void stop() {
+        System.out.println("Stop!");
+
+    }
 }
